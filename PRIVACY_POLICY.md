@@ -69,7 +69,7 @@ We may update this Privacy Policy from time to time. Any changes will be reflect
 
 If you have questions about this Privacy Policy, please contact:
 
-**Email**: kevin@yodaddydesigns.com
+**Email**: kevin@yodaddydesigns.org
 
 ---
 
