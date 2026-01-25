@@ -39,6 +39,18 @@ You have full control over your data:
 - **Import**: You can import previously exported data
 - **Delete**: You can clear all data from the App through Settings
 
+## In-App Purchases and Subscriptions                                                            
+                                                                                                   
+Flexecution offers optional premium subscriptions. All payment processing is handled             
+entirely by Apple through the App Store. We do not collect, store, or have access to             
+your payment information, credit card details, or Apple ID credentials.                          
+                                                                                                   
+Subscription management, including cancellation and renewal, is handled through your             
+Apple ID settings. For more information, visit Apple's support page for managing                 
+subscriptions.                                                                                   
+                                                                                                   
+---                                              
+
 ## Third-Party Services
 
 Flexecution does not integrate with any third-party services. The App does not connect to:
