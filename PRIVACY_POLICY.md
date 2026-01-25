@@ -80,3 +80,8 @@ If you have questions about this Privacy Policy, please contact:
 - No data collection or sharing
 - No ads or tracking
 - You control your data completely
+
+--- 
+## EULA
+
+Terms of Use (EULA): https://www.apple.com/legal/internet-services/itunes/dev/stdeula/    
